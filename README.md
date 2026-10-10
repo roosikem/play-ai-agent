@@ -11,3 +11,10 @@ sbt run
 ```
 
 Then visit `http://localhost:9000` to see the home page, or `http://localhost:9000/hello` to see the Hello World message.
+
+## Running Python Scripts
+
+To run the reverse_text.py script:
+```
+python3 reverse_text.py
+```
